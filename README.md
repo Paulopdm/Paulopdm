@@ -1,12 +1,10 @@
 ## Hello World! 
 ### Pode me chamar de Paulo ;)😉
 
- <div>
-  <a href="https://github.com/Paulopdm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulopdm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulopdm&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-  
+## **GitHub Estatísticas**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulopdm&layout=compact&theme=great-gatsby&border_radius=30&custom_title=Linguagens)](https://github.com/anuraghazra/github-readme-stats)|![Paulopdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulopdm&show_icons=true&theme=great-gatsby&border_radius=30&custom_title=Estatísticas)
+|--|--|
+
   ## **Linguagens e Ferramentas:**  
 <a href="https://biolinky.co/gitreadme"><code><img alt="VSCODE" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>|<a href="https://biolinky.co/gitreadme"><code><img alt="GIT" height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>|<a href="https://biolinky.co/gitreadme"><code><img alt="ECLIPSE" height="30" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"></code>|<a href="https://biolinky.co/gitreadme"><code><img alt="JAVA" height="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>|<a href="https://biolinky.co/gitreadme"><code><img alt="HTML" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>|<a href="https://biolinky.co/gitreadme"><code><img alt="CSS" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 |--|--|--|--|--|--|
