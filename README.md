@@ -1,5 +1,5 @@
 ## Hello World! 
-### Pode me chamar de Paulo ;)😉
+### Pode me chamar de Paulo 😉
 
 ## **GitHub Estatísticas**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulopdm&layout=compact&theme=great-gatsby&border_radius=30&custom_title=Linguagens)](https://github.com/anuraghazra/github-readme-stats)|![Paulopdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulopdm&show_icons=true&theme=great-gatsby&border_radius=30&custom_title=Estatísticas)
